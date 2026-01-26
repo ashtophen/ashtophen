@@ -1,5 +1,9 @@
-## Hi there 👋
+# I Am Nathen Perley
 
+## About Me:
+
+- I am learning web development
+- I am desperately looking for a job in the tech space
 <!--
 **ashtophen/ashtophen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
