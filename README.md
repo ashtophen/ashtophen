@@ -13,8 +13,8 @@
 
 ## Contacts:
 
-Email: nathenperley@gmail.com
-naley.io discord: https://discord.gg/dU57VBg9sb
+- Email: nathenperley@gmail.com
+- naley.io discord: https://discord.gg/dU57VBg9sb
 
 <!--
 **ashtophen/ashtophen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
