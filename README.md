@@ -1,9 +1,8 @@
 # I Am Nathen Perley
 
 ## About Me:
-
-- I am learning web development
-- I am desperately looking for a job in the tech space
+- I like vanilla ice cream.
+- I am learning about computers.
 - I hope to become an evil super genius who takes over the world someday.
 
 ## Currently Working On:
